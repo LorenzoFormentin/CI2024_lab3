@@ -7,7 +7,6 @@ This project solves the $n^2-1$ sliding puzzle (e.g., 8-puzzle, 15-puzzle) using
 ## Features
 
 - Solves $n \times n$ puzzles for any $n$.
-- Ensures initial states are solvable.
 - Uses A* with Manhattan distance heuristic.
 - Metrics: solution length, nodes evaluated, and efficiency.
 
