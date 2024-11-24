@@ -1,2 +1,13 @@
-# CI2024_lab3
-Lab 3 for the 2024 computational intelligence course
+# Lab 3 - Generic $n^2-1$ puzzle
+
+## Overview
+
+This project solves the $n^2-1$ sliding puzzle (e.g., 8-puzzle, 15-puzzle) using the A* Search Algorithm. It supports puzzles of any size $n \times n$ and dynamically generates solvable puzzles.
+
+## Features
+
+- Solves $n \times n$ puzzles for any $n$.
+- Ensures initial states are solvable.
+- Uses A* with Manhattan distance heuristic.
+- Metrics: solution length, nodes evaluated, and efficiency.
+
